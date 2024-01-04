@@ -1,4 +1,4 @@
-package org.ot5usk.steps.assertions;
+package org.ot5usk.ex_7_4_3.steps.assertions;
 
 import io.qameta.allure.Step;
 

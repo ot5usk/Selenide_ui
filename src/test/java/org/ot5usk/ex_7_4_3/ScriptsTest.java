@@ -1,11 +1,11 @@
-package org.ot5usk;
+package org.ot5usk.ex_7_4_3;
 
 import io.qameta.allure.Description;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import org.ot5usk.steps.scripts.AlertsScript;
-import org.ot5usk.steps.scripts.FrameScript;
-import org.ot5usk.steps.scripts.WindowsScript;
+import org.ot5usk.ex_7_4_3.steps.scripts.AlertsScript;
+import org.ot5usk.ex_7_4_3.steps.scripts.FrameScript;
+import org.ot5usk.ex_7_4_3.steps.scripts.WindowsScript;
 
 public class ScriptsTest {
 

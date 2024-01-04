@@ -1,4 +1,4 @@
-package org.ot5usk.pages.frames;
+package org.ot5usk.ex_7_4_3.pages.frames;
 
 import com.codeborne.selenide.SelenideElement;
 

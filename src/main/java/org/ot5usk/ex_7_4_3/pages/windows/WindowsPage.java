@@ -1,4 +1,4 @@
-package org.ot5usk.pages.windows;
+package org.ot5usk.ex_7_4_3.pages.windows;
 
 import com.codeborne.selenide.SelenideElement;
 

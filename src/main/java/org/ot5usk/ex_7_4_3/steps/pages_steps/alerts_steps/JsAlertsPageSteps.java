@@ -1,7 +1,7 @@
-package org.ot5usk.steps.pages_steps.alerts_steps;
+package org.ot5usk.ex_7_4_3.steps.pages_steps.alerts_steps;
 
 import io.qameta.allure.Step;
-import org.ot5usk.pages.alerts.JsAlertsPage;
+import org.ot5usk.ex_7_4_3.pages.alerts.JsAlertsPage;
 
 public class JsAlertsPageSteps {
 

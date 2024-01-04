@@ -1,8 +1,8 @@
-package org.ot5usk.steps.scripts;
+package org.ot5usk.ex_7_4_3.steps.scripts;
 
-import org.ot5usk.steps.pages_steps.alerts_steps.JsAlertsPageSteps;
+import org.ot5usk.ex_7_4_3.steps.pages_steps.alerts_steps.JsAlertsPageSteps;
 
-import static org.ot5usk.steps.assertions.AlertsAsserts.*;
+import static org.ot5usk.ex_7_4_3.steps.assertions.AlertsAsserts.*;
 
 public class AlertsScript {
 

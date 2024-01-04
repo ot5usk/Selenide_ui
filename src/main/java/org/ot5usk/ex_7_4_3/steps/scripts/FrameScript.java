@@ -1,6 +1,6 @@
-package org.ot5usk.steps.scripts;
+package org.ot5usk.ex_7_4_3.steps.scripts;
 
-import org.ot5usk.steps.pages_steps.frames_steps.FramesPageSteps;
+import org.ot5usk.ex_7_4_3.steps.pages_steps.frames_steps.FramesPageSteps;
 
 public class FrameScript {
 

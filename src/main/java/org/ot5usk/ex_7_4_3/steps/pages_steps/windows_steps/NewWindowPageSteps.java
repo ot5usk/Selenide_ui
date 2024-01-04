@@ -1,7 +1,7 @@
-package org.ot5usk.steps.pages_steps.windows_steps;
+package org.ot5usk.ex_7_4_3.steps.pages_steps.windows_steps;
 
 import io.qameta.allure.Step;
-import org.ot5usk.pages.windows.NewWindowPage;
+import org.ot5usk.ex_7_4_3.pages.windows.NewWindowPage;
 
 public class NewWindowPageSteps {
 

@@ -1,4 +1,4 @@
-package org.ot5usk.pages.alerts;
+package org.ot5usk.ex_7_4_3.pages.alerts;
 
 import com.codeborne.selenide.SelenideElement;
 
